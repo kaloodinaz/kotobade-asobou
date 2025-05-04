@@ -1,6 +1,6 @@
 {
   "short_name": "言葉で遊ぼう",
-  "name": "言葉で遊ぼう Kotobade Asobou",
+  "name": "言葉で遊ぼう",
   "icons": [
     {
       "src": "kotobade-asobou.ico",
@@ -48,7 +48,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://taximanli.github.io/kotobade-asobou",
+  "start_url": "https://kaloodinaz.github.io/kotobade-asobou/",
   "display": "standalone",
   "background_color": "#22c55e",
   "theme_color": "#22c55e",
